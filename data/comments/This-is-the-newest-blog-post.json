@@ -54,5 +54,13 @@
     "content": "Fresh comment 7",
     "createdAt": 1606103981146,
     "id": "l3eCdUjBobXfiSWQVr34SlYNcT0ouA"
+  },
+  {
+    "userId": "github-1438089",
+    "name": null,
+    "avatar": "https://avatars1.githubusercontent.com/u/1438089?v=4",
+    "content": "Stale commentt",
+    "createdAt": 1606104749913,
+    "id": "kZHZQ0vmhBEEVo7Dr4RRsnJ1XmdUdC"
   }
 ]
