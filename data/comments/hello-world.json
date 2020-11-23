@@ -1,1 +1,18 @@
-[{"userID":"user-id","name":"The User","avatar":"https://api.adorable.io/avatars/255/the-user@email.png","content":"This is it","createdAt":1606093988707,"id":"nl3NHszmcYv2dWUBbDyrGf8U_E9FT-"}]
+[
+  {
+    "userID": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "This is it",
+    "createdAt": 1606093988707,
+    "id": "nl3NHszmcYv2dWUBbDyrGf8U_E9FT-"
+  },
+  {
+    "userID": "github-1438089",
+    "name": null,
+    "avatar": "https://avatars1.githubusercontent.com/u/1438089?v=4",
+    "content": "This is the comment content",
+    "createdAt": 1606094284051,
+    "id": "tCVV5UJYKb4884vRoaOQpB954CZcbp"
+  }
+]
